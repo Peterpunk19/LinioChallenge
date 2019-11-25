@@ -10,6 +10,7 @@ Write a program that prints all the numbers from 1 to 100. However, for multiple
 
 ### INSTALLATION
 1.- Clone repository
+
 2.- composer install
 
 ### Usage
